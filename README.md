@@ -91,9 +91,39 @@ It is clear that platforms prefer to buy popular series > movie.
 
 ##THOUGHTS## This is probably becuase we will spend a lot more time on the platform watching series than watching a single movie. 
 
+Lets Check what score is purchased most frequently
 
+Most frequent purchased IMDB rating for all platforms 
+![Screenshot 2022-07-26 at 00 51 56](https://user-images.githubusercontent.com/104360125/180887364-37e439bc-4ed0-4671-91f0-61746609f797.png)
+The most frequent bought ratings are between 8.4 and 8.7 
 
+Below you can find graphs for each specific platform 
 
+IMDB Rating Purchases by Amazon  
+![Screenshot 2022-07-26 at 00 53 43](https://user-images.githubusercontent.com/104360125/180887531-107a9198-14b4-4d10-bfe2-f36f8525db7b.png)
+
+IMDB Rating Purchases by Disney  
+![Screenshot 2022-07-26 at 00 53 57](https://user-images.githubusercontent.com/104360125/180887550-8a166531-c2f3-47e2-b5d9-320087c1b9b9.png)
+
+IMDB Rating Purchases by Netflix  
+![Screenshot 2022-07-26 at 00 54 11](https://user-images.githubusercontent.com/104360125/180887570-ed1f7bef-2ce6-4f95-a650-4a8c611a45cd.png)
+
+Lets look at the production date of the popular movies/tv shows in the library of the platofrms 
+
+Amazon Prime  
+![Screenshot 2022-07-26 at 00 57 13](https://user-images.githubusercontent.com/104360125/180888152-826bd123-9751-4e9a-8187-77ba3f3f60b1.png)
+
+DIsney Plus 
+![Screenshot 2022-07-26 at 00 57 05](https://user-images.githubusercontent.com/104360125/180888275-e5962c77-08e3-43cd-a92c-b7dbd29690a8.png)
+
+Netflix 
+![Screenshot 2022-07-26 at 00 56 58](https://user-images.githubusercontent.com/104360125/180888286-d205230a-75f0-4615-a396-b0fae14bf492.png)
+
+Netflix and Amazon seem to have a very comparable strategy on this while Disney is the outlyer. This is most likely due to the fact that disney's library does not have as many matches with the IMDB top 250 library. 
+
+So to confirm again. 
+
+My Hypothesis was wrong for Netflix but does count for Amazon Prime and Disney Plus. 
 
 
 
