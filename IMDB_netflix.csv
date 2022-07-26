@@ -1,0 +1,133 @@
+,Title,Rating,Year,Director,Date of release,Duration,Genre,Type,Platform
+0,schindler's list,8.9,1993,Steven Spielberg,1993,195 min,"Classic Movies, Dramas",Movie,Netflix
+1,the lord of the rings: the return of the king,8.9,2003,Peter Jackson,2003,201 min,"Action & Adventure, Sci-Fi & Fantasy",Movie,Netflix
+2,pulp fiction,8.9,1994,Quentin Tarantino,1994,154 min,"Classic Movies, Cult Movies, Dramas",Movie,Netflix
+3,inception,8.7,2010,Christopher Nolan,2010,148 min,"Action & Adventure, Sci-Fi & Fantasy, Thrillers",Movie,Netflix
+4,the lord of the rings: the two towers,8.7,2002,Peter Jackson,2002,179 min,"Action & Adventure, Sci-Fi & Fantasy",Movie,Netflix
+5,the matrix,8.7,1999,Lana Wachowski,1999,136 min,"Action & Adventure, Sci-Fi & Fantasy",Movie,Netflix
+6,goodfellas,8.7,1990,Martin Scorsese,1990,145 min,"Classic Movies, Dramas",Movie,Netflix
+7,city of god,8.6,2002,Fernando Meirelles,2002,130 min,"Dramas, Independent Movies, International Movies",Movie,Netflix
+8,psycho,8.5,1960,Alfred Hitchcock,2020,143 min,"Horror Movies, International Movies, Thrillers",Movie,Netflix
+9,the pianist,8.5,2002,Roman Polanski,2002,149 min,"Dramas, Independent Movies, International Movies",Movie,Netflix
+10,american history x,8.5,1998,Tony Kaye,1998,119 min,Dramas,Movie,Netflix
+11,the departed,8.5,2006,Martin Scorsese,2006,151 min,"Dramas, Thrillers",Movie,Netflix
+12,the intouchables,8.5,2011,Olivier Nakache,2011,112 min,"Comedies, Dramas, International Movies",Movie,Netflix
+13,once upon a time in the west,8.4,1968,Sergio Leone,1968,166 min,"Action & Adventure, Classic Movies, International Movies",Movie,Netflix
+14,indiana jones and the raiders of the lost ark,8.4,1981,Steven Spielberg,1981,116 min,"Action & Adventure, Children & Family Movies, Classic Movies",Movie,Netflix
+15,django unchained,8.4,2012,Quentin Tarantino,2012,165 min,"Action & Adventure, Dramas",Movie,Netflix
+16,the lives of others,8.4,2006,Florian Henckel von Donnersmarck,2006,138 min,"Dramas, International Movies, Thrillers",Movie,Netflix
+17,avengers: infinity war,8.4,2018,Anthony Russo,2018,150 min,"Action & Adventure, Sci-Fi & Fantasy",Movie,Netflix
+18,american beauty,8.3,1999,Sam Mendes,1999,122 min,Dramas,Movie,Netflix
+19,spider-man: into the spider-verse,8.3,2018,Bob Persichetti,2018,117 min,"Action & Adventure, Comedies",Movie,Netflix
+20,joker,8.3,2019,Todd Phillips,2012,98 min,"Comedies, International Movies, Music & Musicals",Movie,Netflix
+21,inglourious basterds,8.3,2009,Quentin Tarantino,2009,153 min,Action & Adventure,Movie,Netflix
+22,once upon a time in america,8.3,1984,Sergio Leone,1984,229 min,"Classic Movies, Dramas",Movie,Netflix
+23,3 idiots,8.3,2009,Rajkumar Hirani,2009,164 min,"Comedies, Dramas, International Movies",Movie,Netflix
+24,the hunt,8.3,2012,Thomas Vinterberg,2015,1 Season,"British TV Shows, Docuseries, Science & Nature TV",Movie,Netflix
+25,a clockwork orange,8.2,1971,Stanley Kubrick,1971,137 min,"Classic Movies, Cult Movies, Dramas",Movie,Netflix
+26,the apartment,8.2,1960,Billy Wilder,2014,2 Seasons,"International TV Shows, Reality TV",Movie,Netflix
+27,taxi driver,8.2,1976,Martin Scorsese,2015,94 min,"Comedies, Dramas, Independent Movies",Movie,Netflix
+28,a separation,8.2,2011,Asghar Farhadi,2011,123 min,"Dramas, International Movies",Movie,Netflix
+29,indiana jones and the last crusade,8.2,1989,Steven Spielberg,1989,127 min,"Action & Adventure, Children & Family Movies, Classic Movies",Movie,Netflix
+30,dangal,8.2,2016,Nitesh Tiwari,2016,161 min,"Dramas, International Movies, Sports Movies",Movie,Netflix
+31,pan's labyrinth,8.2,2006,Guillermo del Toro,2006,119 min,"Dramas, International Movies, Sci-Fi & Fantasy",Movie,Netflix
+32,there will be blood,8.2,2007,Paul Thomas Anderson,2007,158 min,"Dramas, Independent Movies",Movie,Netflix
+33,monty python and the holy grail,8.2,1975,Terry Gilliam,1975,92 min,"Action & Adventure, Classic Movies, Comedies",Movie,Netflix
+34,shutter island,8.1,2010,Martin Scorsese,2010,139 min,Thrillers,Movie,Netflix
+35,kill bill: vol. 1,8.1,2003,Quentin Tarantino,2003,111 min,Action & Adventure,Movie,Netflix
+36,raging bull,8.1,1980,Martin Scorsese,1980,129 min,"Classic Movies, Dramas, Sports Movies",Movie,Netflix
+37,v for vendetta,8.1,2006,James McTeigue,2005,132 min,"Action & Adventure, Dramas, Sci-Fi & Fantasy",Movie,Netflix
+38,"lock, stock and two smoking barrels",8.1,1998,Guy Ritchie,1998,108 min,"Action & Adventure, Comedies, Independent Movies",Movie,Netflix
+39,trainspotting,8.1,1996,Danny Boyle,1996,94 min,"Comedies, Cult Movies, Dramas",Movie,Netflix
+40,warrior,8.1,2011,Gavin O'Connor,2018,1 Season,"Crime TV Shows, International TV Shows, TV Dramas",Movie,Netflix
+41,gran torino,8.1,2008,Clint Eastwood,2008,117 min,Dramas,Movie,Netflix
+42,million dollar baby,8.1,2004,Clint Eastwood,2004,133 min,"Dramas, Sports Movies",Movie,Netflix
+43,catch me if you can,8.1,2002,Steven Spielberg,2002,142 min,Dramas,Movie,Netflix
+44,klaus,8.1,2019,Sergio Pablos,2019,98 min,"Children & Family Movies, Comedies",Movie,Netflix
+45,room,8.1,2015,Lenny Abrahamson,2015,118 min,"Dramas, Independent Movies",Movie,Netflix
+46,jaws,8.1,1975,Steven Spielberg,1975,124 min,"Action & Adventure, Classic Movies, Dramas",Movie,Netflix
+47,rocky,8.0,1976,John G. Avildsen,1976,120 min,"Action & Adventure, Classic Movies, Dramas",Movie,Netflix
+48,platoon,8.0,1986,Oliver Stone,1986,120 min,"Action & Adventure, Classic Movies, Dramas",Movie,Netflix
+49,spotlight,8.0,2015,Tom McCarthy,2015,129 min,"Dramas, Independent Movies",Movie,Netflix
+50,rush,8.0,2013,Ron Howard,2013,123 min,"Action & Adventure, Dramas, International Movies",Movie,Netflix
+51,into the wild,8.0,2007,Sean Penn,2007,148 min,"Action & Adventure, Dramas, Independent Movies",Movie,Netflix
+52,rebecca,8.0,1940,Alfred Hitchcock,2020,123 min,"Dramas, Romantic Movies, Thrillers",Movie,Netflix
+53,hachi: a dog's tale,8.0,2009,Lasse HallstrÃ¶m,2009,93 min,"Children & Family Movies, Dramas",Movie,Netflix
+54,cool hand luke,8.0,1967,Stuart Rosenberg,1967,127 min,"Classic Movies, Dramas",Movie,Netflix
+55,persona,8.0,1966,Ingmar Bergman,2019,1 Season,"International TV Shows, Korean TV Shows, TV Dramas",Movie,Netflix
+56,the help,8.0,2011,Tate Taylor,2011,147 min,Dramas,Movie,Netflix
+0,planet earth ii,9.4,2016,"David Attenborough, Chadden Hunter",2016,1 Season,"British TV Shows, Docuseries, Science & Nature TV",Tv Show,Netflix
+1,breaking bad,9.4,2008,"Bryan Cranston, Aaron Paul",2013,5 Seasons,"Crime TV Shows, TV Dramas, TV Thrillers",Tv Show,Netflix
+2,blue planet ii,9.2,2017,"David Attenborough, Peter Drost",2017,1 Season,"British TV Shows, Docuseries, Science & Nature TV",Tv Show,Netflix
+3,avatar: the last airbender,9.2,2005,"Dee Bradley Baker, Zach Tyler Eisen",2007,3 Seasons,"Classic & Cult TV, Kids' TV, TV Action & Adventure",Tv Show,Netflix
+4,our planet,9.2,2019,David Attenborough,2019,1 Season,"Docuseries, Science & Nature TV",Tv Show,Netflix
+5,fullmetal alchemist: brotherhood,9.1,2009,"Kent Williams, Iemasa Kayumi",2010,5 Seasons,"Anime Series, International TV Shows",Tv Show,Netflix
+6,the last dance,9.0,2020,"Michael Jordan, Phil Jackson",2020,1 Season,Docuseries,Tv Show,Netflix
+7,life,9.0,2009,"Oprah Winfrey, David Attenborough",2018,1 Season,"International TV Shows, Korean TV Shows, TV Dramas",Tv Show,Netflix
+8,sherlock,9.0,2010,"Benedict Cumberbatch, Martin Freeman",2017,4 Seasons,"British TV Shows, Crime TV Shows, International TV Shows",Tv Show,Netflix
+9,attack on titan,8.9,2013,"Josh Grelle, YÃ»ki Kaji",2013,1 Season,"Anime Series, International TV Shows",Tv Show,Netflix
+10,frozen planet,8.9,2011,"David Attenborough, Alec Baldwin",2011,1 Season,"British TV Shows, Docuseries, International TV Shows",Tv Show,Netflix
+11,death note,8.9,2006,"Mamoru Miyano, Brad Swaile",2017,100 min,"Horror Movies, Thrillers",Tv Show,Netflix
+12,death note,8.9,2006,"Mamoru Miyano, Brad Swaile",2006,1 Season,"Anime Series, Crime TV Shows, International TV Shows",Tv Show,Netflix
+13,persona,8.9,2018,"Haluk Bilginer, Cansu Dere",2019,1 Season,"International TV Shows, Korean TV Shows, TV Dramas",Tv Show,Netflix
+14,friends,8.8,1994,"Jennifer Aniston, Courteney Cox",2003,10 Seasons,"Classic & Cult TV, TV Comedies",Tv Show,Netflix
+15,when they see us,8.8,2019,"Asante Blackk, Caleel Harris",2019,1 Season,"Crime TV Shows, TV Dramas",Tv Show,Netflix
+16,africa,8.8,2013,"David Attenborough, Simon Blakeney",2013,1 Season,"British TV Shows, Docuseries, International TV Shows",Tv Show,Netflix
+17,monty python's flying circus,8.8,1969,"Graham Chapman, John Cleese",1974,4 Seasons,"British TV Shows, Classic & Cult TV, International TV Shows",Tv Show,Netflix
+18,better call saul,8.8,2015,"Bob Odenkirk, Rhea Seehorn",2018,4 Seasons,"Crime TV Shows, TV Comedies, TV Dramas",Tv Show,Netflix
+19,the west wing,8.8,1999,"Martin Sheen, Rob Lowe",2005,7 Seasons,TV Dramas,Tv Show,Netflix
+20,leyla and mecnun,8.7,2011,"Ali Atay, Serkan Keskin",2014,3 Seasons,"International TV Shows, Romantic TV Shows, TV Comedies",Tv Show,Netflix
+21,twin peaks,8.7,1990,"Kyle MacLachlan, Michael Ontkean",1990,2 Seasons,"Classic & Cult TV, Crime TV Shows, TV Dramas",Tv Show,Netflix
+22,twin peaks,8.5,2017,"Kyle MacLachlan, Sheryl Lee",1990,2 Seasons,"Classic & Cult TV, Crime TV Shows, TV Dramas",Tv Show,Netflix
+23,black mirror,8.7,2011,"Daniel Lapaine, Hannah John-Kamen",2019,5 Seasons,"British TV Shows, International TV Shows, TV Dramas",Tv Show,Netflix
+24,narcos,8.7,2015,"Pedro Pascal, Wagner Moura",2017,3 Seasons,"Crime TV Shows, TV Action & Adventure, TV Dramas",Tv Show,Netflix
+25,chappelle's show,8.7,2003,"Dave Chappelle, Donnell Rawlings",2005,2 Seasons,TV Comedies,Tv Show,Netflix
+26,bojack horseman,8.7,2014,"Will Arnett, Amy Sedaris",2020,6 Seasons,TV Comedies,Tv Show,Netflix
+27,peaky blinders,8.7,2013,"Cillian Murphy, Paul Anderson",2019,5 Seasons,"British TV Shows, Crime TV Shows, International TV Shows",Tv Show,Netflix
+28,one piece,8.7,1999,"Mayumi Tanaka, Laurent Vernin",2002,4 Seasons,Anime Series,Tv Show,Netflix
+29,dark,8.7,2017,"Louis Hofmann, Karoline Eichhorn",2020,3 Seasons,"Crime TV Shows, International TV Shows, TV Dramas",Tv Show,Netflix
+30,kota factory,8.7,2019,"Mayur More, Jitendra Kumar",2021,2 Seasons,"International TV Shows, Romantic TV Shows, TV Comedies",Tv Show,Netflix
+31,arrested development,8.7,2003,"Jason Bateman, Michael Cera",2019,5 Seasons,TV Comedies,Tv Show,Netflix
+32,stranger things,8.7,2016,"Millie Bobby Brown, Finn Wolfhard",2019,3 Seasons,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",Tv Show,Netflix
+33,downton abbey,8.6,2010,"Hugh Bonneville, Phyllis Logan",2015,6 Seasons,"British TV Shows, International TV Shows, TV Dramas",Tv Show,Netflix
+34,mad men,8.6,2007,"Jon Hamm, Elisabeth Moss",2014,7 Seasons,TV Dramas,Tv Show,Netflix
+35,house of cards,8.6,2013,"Kevin Spacey, Michel Gill",2018,6 Seasons,"TV Dramas, TV Thrillers",Tv Show,Netflix
+36,the crown,8.6,2016,"Claire Foy, Olivia Colman",2020,4 Seasons,"British TV Shows, International TV Shows, TV Dramas",Tv Show,Netflix
+37,star trek: the next generation,8.6,1987,"Patrick Stewart, Brent Spiner",1993,7 Seasons,"TV Action & Adventure, TV Sci-Fi & Fantasy",Tv Show,Netflix
+38,friday night lights,8.6,2006,"Kyle Chandler, Connie Britton",2010,5 Seasons,"TV Dramas, Teen TV Shows",Tv Show,Netflix
+39,dexter,8.6,2006,"Michael C. Hall, Jennifer Carpenter",2013,8 Seasons,"Crime TV Shows, TV Dramas, TV Mysteries",Tv Show,Netflix
+40,parks and recreation,8.6,2009,"Amy Poehler, Jim O'Heir",2015,7 Seasons,TV Comedies,Tv Show,Netflix
+41,demon slayer: kimetsu no yaiba,8.6,2019,"Natsuki Hanae, Zach Aguilar",2019,1 Season,"Anime Series, International TV Shows",Tv Show,Netflix
+42,the bridge,8.6,2011,"Sofia Helin, Rafael Pettersson",2017,119 min,"Dramas, International Movies, Romantic Movies",Tv Show,Netflix
+43,mystery science theater 3000,8.6,1988,"Joel Hodgson, Michael J. Nelson",1999,1 Season,"TV Comedies, TV Sci-Fi & Fantasy",Tv Show,Netflix
+44,gomorrah,8.6,2014,"Salvatore Esposito, Marco D'Amore",2016,2 Seasons,"Crime TV Shows, International TV Shows, TV Dramas",Tv Show,Netflix
+45,mahabharat,8.6,1988,"Harish Bhimani, Nitish Bharadwaj",2013,119 min,"Action & Adventure, Dramas, International Movies",Tv Show,Netflix
+46,mindhunter,8.5,2017,"Jonathan Groff, Holt McCallany",2019,2 Seasons,"Crime TV Shows, TV Dramas, TV Mysteries",Tv Show,Netflix
+47,making a murderer,8.5,2015,"Steven Avery, Dolores Avery",2018,2 Seasons,"Crime TV Shows, Docuseries",Tv Show,Netflix
+48,monster,8.5,2004,"Hidenobu Kiuchi, Liam O'Brien",2021,99 min,Dramas,Tv Show,Netflix
+49,anne with an e,8.5,2017,"Amybeth McNulty, Geraldine James",2019,3 Seasons,"International TV Shows, TV Dramas, Teen TV Shows",Tv Show,Netflix
+50,yeh meri family,8.5,2018,"Vishesh Bansal, Mona Singh",2018,1 Season,"International TV Shows, TV Comedies",Tv Show,Netflix
+51,the haunting of hill house,8.5,2018,"Michiel Huisman, Carla Gugino",2018,1 Season,"TV Dramas, TV Horror, TV Mysteries",Tv Show,Netflix
+52,formula 1: drive to survive,8.5,2019,"Jack Nicholls, Lewis Hamilton",2021,3 Seasons,Docuseries,Tv Show,Netflix
+53,the queen's gambit,8.5,2020,"Anya Taylor-Joy, Chloe Pirrie",2020,1 Season,TV Dramas,Tv Show,Netflix
+54,ramayan,8.5,1987,"Arun Govil, Deepika Chikhalia",2012,1 Season,"International TV Shows, TV Dramas",Tv Show,Netflix
+55,crash landing on you,8.5,2019,"Hyun Bin, Son Ye-jin",2019,1 Season,"International TV Shows, Korean TV Shows, Romantic TV Shows",Tv Show,Netflix
+56,the it crowd,8.5,2006,"Chris O'Dowd, Richard Ayoade",2013,5 Seasons,"British TV Shows, Classic & Cult TV, International TV Shows",Tv Show,Netflix
+57,pose,8.5,2018,"Michaela JaÃ© (MJ) Rodriguez, Dominique Jackson",2019,2 Seasons,TV Dramas,Tv Show,Netflix
+58,cobra kai,8.5,2018,"Ralph Macchio, William Zabka",2021,3 Seasons,"TV Action & Adventure, TV Comedies, TV Dramas",Tv Show,Netflix
+59,spartacus,8.5,2010,"Andy Whitfield, Lucy Lawless",2013,4 Seasons,"TV Action & Adventure, TV Dramas",Tv Show,Netflix
+60,fullmetal alchemist,8.5,2003,"Vic Mignogna, Aaron Dismuke",2017,134 min,"Action & Adventure, Dramas, International Movies",Tv Show,Netflix
+61,fullmetal alchemist,8.5,2003,"Vic Mignogna, Aaron Dismuke",2003,1 Season,"Anime Series, International TV Shows",Tv Show,Netflix
+62,north & south,8.5,2004,"Daniela Denby-Ashe, Richard Armitage",2004,1 Season,"British TV Shows, Romantic TV Shows, TV Dramas",Tv Show,Netflix
+63,neon genesis evangelion,8.5,1995,"Megumi Ogata, Megumi Hayashibara",1995,1 Season,"Anime Series, International TV Shows",Tv Show,Netflix
+64,trailer park boys,8.5,2001,"John Paul Tremblay, Robb Wells",2018,12 Seasons,"Classic & Cult TV, Crime TV Shows, International TV Shows",Tv Show,Netflix
+65,ezel,8.5,2009,"Kenan Imirzalioglu, Cansu Dere",2009,1 Season,"Crime TV Shows, International TV Shows, TV Dramas",Tv Show,Netflix
+66,mob psycho 100,8.5,2016,"Setsuo Ito, Takahiro Sakurai",2018,1 Season,"International TV Shows, TV Action & Adventure, TV Comedies",Tv Show,Netflix
+67,hannibal,8.5,2013,"Hugh Dancy, Mads Mikkelsen",2015,3 Seasons,"TV Horror, TV Mysteries, TV Thrillers",Tv Show,Netflix
+68,community,8.4,2009,"Joel McHale, Danny Pudi",2015,6 Seasons,TV Comedies,Tv Show,Netflix
+69,schitt's creek,8.4,2015,"Eugene Levy, Catherine O'Hara",2020,6 Seasons,TV Comedies,Tv Show,Netflix
+70,chef's table,8.4,2015,"Massimo Bottura, Ruth Reichl",2019,6 Seasons,"Docuseries, Reality TV",Tv Show,Netflix
+71,your lie in april,8.4,2014,"Natsuki Hanae, Risa Taneda",2014,1 Season,"Anime Series, International TV Shows, Romantic TV Shows",Tv Show,Netflix
+72,wentworth,8.4,2013,"Kate Atkinson, Katrina Milosevic",2020,8 Seasons,"Crime TV Shows, TV Dramas",Tv Show,Netflix
+73,erased,8.4,2016,"Ben Diskin, Tao Tsuchiya",2016,1 Season,"Anime Series, International TV Shows, TV Thrillers",Tv Show,Netflix
+74,ozark,8.4,2017,"Jason Bateman, Laura Linney",2020,3 Seasons,"Crime TV Shows, TV Dramas, TV Thrillers",Tv Show,Netflix
